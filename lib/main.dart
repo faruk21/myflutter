@@ -3,7 +3,9 @@ import 'views/downloadpdf.dart';
 import 'views/routing/HomeView.dart';
 import 'views/sliver_view.dart';
 
-//faruk
+// git Note:
+//  - git commit -m "test"
+//  - git push -u origin master
 
 void main() {
   runApp(MyApp());
