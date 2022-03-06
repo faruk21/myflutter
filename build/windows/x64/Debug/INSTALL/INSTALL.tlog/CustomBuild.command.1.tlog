@@ -1,0 +1,10 @@
+^C:\USERS\FARUK\DESKTOP\FLUTTER\RASPI_APP\RASPI_APP\BUILD\WINDOWS\CMAKEFILES\FBD61BD186540EB4BBB8E7EF856FF434\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

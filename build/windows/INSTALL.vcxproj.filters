@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\faruk\Desktop\flutter\raspi_app\raspi_app\build\windows\CMakeFiles\fbd61bd186540eb4bbb8e7ef856ff434\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0562800D-63ED-3CF6-8C92-EE80E3880371}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
