@@ -5,7 +5,7 @@ import 'views/sliver_view.dart';
 
 // git Note:
 //  - git commit -m "test"
-//  - git push -u origin master
+//  - git push -u origin master.
 
 void main() {
   runApp(MyApp());
