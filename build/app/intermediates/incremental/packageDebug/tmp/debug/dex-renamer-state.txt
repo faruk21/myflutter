@@ -1,4 +1,4 @@
-#Sun Mar 06 19:22:45 TRT 2022
-base.0=C\:\\Users\\faruk\\Desktop\\flutter\\raspi_app\\raspi_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Mar 07 09:27:19 TRT 2022
+base.0=E\:\\omer\\flutter\\myflutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

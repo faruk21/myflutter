@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\faruk\\Desktop\\flutter\\raspi_app\\raspi_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "E:\\omer\\flutter\\myflutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\faruk\\.gradle\\caches\\transforms-2\\files-2.1\\5e86ac6112f317c2f69cf5fc4d8a9536\\media-1.0.0\\res\\values-v21\\values-v21.xml",

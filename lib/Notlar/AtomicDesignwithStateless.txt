@@ -1,0 +1,43 @@
+ https://www.youtube.com/watch?v=ZkP7QgLaZcY&list=PL1k5oWAuBhgUpOHXXnWpI8nQ4yCGXth5K&index=34
+
+ Yukarıdaki dersten çıkarımlarım.
+
+Ömer Faruk Özcan 
+7.03.2022
+
+--- stateless ---
+
+Öncelikle bir tasarım olmalı örnek: ( https://cdn-screenshots.comidoc.net/2254864_4.png ),
+
+    Bu tasarım iyi analiz edilerek nerelerin, hangi sayfaların state tutması gerektiği çıkartılmalı çünkü
+bir proje ne kadar az state tutarsa o kadar hızlı çalışır (stateler daha fazla bellek, ram kullanımı gibi bir çok
+sebepten dolayı uygulamayı yavaşlatır.)
+
+statefull = veri saklayan
+stateless = veri saklamayan 
+
+İlk 25 dakikada anlatılmak istenen kısım için benim çıkarımlarım.
+
+    Sayfa veri saklamalıysa yani dışarıdan gelen verilerle işlem yapacaksa bu database den veri çekmek de olabilir,
+butona basıldığında sayfa değişmesi de olabilir bir hareket olacaksa o sayfa statefull olmalı.
+    Sayfa veri saklamayacaksa database ile ilişkisi yoksa sadece göstermek görüntülemek amacı güdüyorsa, mesela
+butona basılıp giden sayfadan tekrar bir başka sayfaya gidilmeyecekse stateless yapılmalı. Bir diğer örneği sürekli 
+kullnaılacak bir butonun kod kalabalığı yapmamasaı için dışarıya başka bir sayfaya alınaması ve buradan çağırılarak kullanılması
+olayıdır hatta bu buton bir class yapısı ile verilen parametrelere göre kendini ayarlayıp size geri dönüş yapıyorsa
+bile stateless olmalı çünkü onpress() özelliği çağırılan statefull sayfada zaten belirlenecek.
+    Bunlara atomic component denir; Mesela dikdörtgen yaapıda ve renk boyut ayarları verilmiş ve sabit olacak olan bir
+kart tasarımımız olsun bu projede sürekli kullanılacak aynı şekilde bu da statefull olarak yazılır ve içerisine kart üstüne 
+yazılacak yazının girdisini alır ve bize bitmiş hazır kartı verir sonuç olarak biz o kart tasarımı her gerektiğinde 
+tekrar tekrar aynı kodu yazmak zorunda kalmamış olacağız. ( Datayı alıp gösterme işi (data =  renk, boyut, yazı...))
+
+27. dakikada dan sonra örnek bir kart tasarımı yapılıyor.
+
+    Bu kart tasarımındaki bir çok eleman buton, vesim vs stateless olarak dışarıya ayrı sayfalara alınıyor ve
+dinamik bir yapıya getiriliyor.
+
+column ile mainAxixAligment verilirse yatayda iki nesnein arası açma işlemleri yapılır.
+rov ile mainAxixAligment verilirse dikeyde iki nesnein arası açma işlemleri yapılır.
+
+--- statefull ---
+
+ikinci videoda anlatılan statefull kavramı daha sonra ayrıntılı olarak açıklanacak

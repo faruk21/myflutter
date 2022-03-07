@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\faruk\\Desktop\\flutter\\raspi_app\\raspi_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "E:\\omer\\flutter\\myflutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\faruk\\Desktop\\flutter\\raspi_app\\raspi_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "E:\\omer\\flutter\\myflutter\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
