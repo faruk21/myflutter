@@ -41,3 +41,21 @@ rov ile mainAxixAligment verilirse dikeyde iki nesnein arası açma işlemleri y
 --- statefull ---
 
 ikinci videoda anlatılan statefull kavramı daha sonra ayrıntılı olarak açıklanacak
+
+
+
+
+
+
+
+
+
+-- mvvm ----------
+MVVM Flutter Widget Generator
+
+pubspec Asist (ctrl+shift+p kommbinasyonu ile açılan pubspec Asist istenilen kütüphaneyi ismi ile kurabiliyor.)
+
+kütüphaneler
+- mobx
+- mobx_codegen (mobx_codegen: ^1.1.1+1)
+- flutter mobx

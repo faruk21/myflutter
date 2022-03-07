@@ -74,6 +74,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_mobx",
+      "rootUri": "file:///C:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobx-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///C:/Program%20Files/src/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -118,6 +124,12 @@
     {
       "name": "meta",
       "rootUri": "file:///C:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mobx",
+      "rootUri": "file:///C:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/mobx-2.0.6+1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -266,7 +278,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-03-07T06:23:48.403040Z",
+  "generated": "2022-03-07T12:32:16.150064Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }
