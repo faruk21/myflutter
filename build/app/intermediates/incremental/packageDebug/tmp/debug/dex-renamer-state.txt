@@ -1,4 +1,4 @@
-#Mon Mar 07 09:27:19 TRT 2022
-base.0=E\:\\omer\\flutter\\myflutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Jul 22 12:23:22 TRT 2022
+base.0=C\:\\Users\\faruk\\Desktop\\Flutter_frk\\myflutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

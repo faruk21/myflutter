@@ -12,14 +12,14 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->E:\omer\flutter\myflutter\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->E:\omer\flutter\myflutter\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->C:\Users\faruk\Desktop\Flutter_frk\myflutter\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\faruk\Desktop\Flutter_frk\myflutter\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-15-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
-15-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
+15-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
+15-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
-16-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-77
+16-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
+16-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-77
 17
 18    <application
 19        android:name="android.app.Application"
@@ -62,21 +62,21 @@
 55            android:value="2" />
 56
 57        <provider
-57-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
+57-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
 58            android:name="com.crazecoder.openfile.FileProvider"
-58-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-64
+58-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-64
 59            android:authorities="com.example.raspi_app.fileProvider.com.crazecoder.openfile"
-59-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+59-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
 60            android:exported="false"
-60-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+60-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
 61            android:grantUriPermissions="true" >
-61-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+61-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
 62            <meta-data
-62-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:53
+62-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:53
 63                android:name="android.support.FILE_PROVIDER_PATHS"
-63-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+63-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
 64                android:resource="@xml/filepaths" />
-64-->[:open_file] E:\omer\flutter\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-50
+64-->[:open_file] C:\Users\faruk\Desktop\Flutter_frk\myflutter\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-50
 65        </provider>
 66
 67        <uses-library
