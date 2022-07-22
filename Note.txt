@@ -1,7 +1,8 @@
 git command
+---------------------------
 - github dan proje kopyalamek = git clone proje adresi
 
 - git status
 - git add .
-
-- 
+- git commit -m "Note"
+- git push
